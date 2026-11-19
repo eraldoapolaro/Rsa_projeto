@@ -1,5 +1,3 @@
-"""Cálculos RSA do projeto. Referências: REFERENCIAS.md, itens 1 a 3."""
-
 from math import gcd, isqrt
 from secrets import randbelow, randbits
 

@@ -1,5 +1,3 @@
-"""Testes dos cálculos, das entradas inválidas e do formato .rsa."""
-
 from math import gcd, isqrt
 from pathlib import Path
 from tempfile import TemporaryDirectory
